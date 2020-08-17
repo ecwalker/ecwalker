@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm a WordPress Consultant, Tech Blogger and coding enthusiast. 
+Looking to many more stars to my skills universe :arrow_down:
+
+#### Coding Languages:
+
+Python :star::star::star: | R :star::star: | SQL :star: | Kotlin :star:
+
+#### Other Technologies:
+
+WordPress CMS :star::star::star: | Tableau :star::star:
+
 <!--
 **ecwalker/ecwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
