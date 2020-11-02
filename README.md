@@ -5,11 +5,11 @@ Looking to many more stars to my skills universe :arrow_down:
 
 #### Coding Languages:
 
-Python :star::star::star: | R :star::star: | SQL :star: | Kotlin :star:
+Python :star::star::star::star: | R :star::star: | SQL :star: | Kotlin :star:
 
 #### Other Technologies:
 
-WordPress CMS :star::star::star: | Tableau :star::star:
+WordPress CMS :star::star::star: | Tableau :star::star::star:
 
 <!--
 **ecwalker/ecwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
