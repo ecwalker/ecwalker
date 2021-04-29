@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a WordPress Consultant, Tech Blogger and coding enthusiast. 
+I'm a Data Analyst and Tech Blogger. 
 Looking to many more stars to my skills universe :arrow_down:
 
 #### Coding Languages:
