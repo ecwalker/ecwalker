@@ -5,7 +5,7 @@ Looking to many more stars to my skills universe :arrow_down:
 
 #### Coding Languages:
 
-Python :star::star::star::star: | R :star::star: | SQL :star: | Kotlin :star:
+Python :star::star::star::star: | R :star::star: | SQL :star::star: | Kotlin :star::star:
 
 #### Other Technologies:
 
