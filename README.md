@@ -9,7 +9,7 @@ Python :star::star::star::star: | R :star::star: | SQL :star::star: | Kotlin :st
 
 #### Other Technologies:
 
-WordPress CMS :star::star::star: | Tableau :star::star::star:
+Alteryx :star::star::star::star: | WordPress CMS :star::star::star: | Tableau :star::star::star:
 
 <!--
 **ecwalker/ecwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
